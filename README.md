@@ -2,6 +2,6 @@
 Simple CRUD using Laravel 5.7
 
 # Installation
-* git clone https://github.com/bestmomo/laravel5-example.git projectname
+* git clone https://github.com/Dilank/Simple-CRUD-using-Laravel-5.7.git projectname
 * cd projectname
 * composer install
